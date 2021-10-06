@@ -2,6 +2,8 @@ package com.company;
 
 //main class
 public class SumOfTwoNumbers {
+
+
     //main function
     public static void main(String[] args) {
         int a =30;
