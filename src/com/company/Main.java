@@ -1,8 +1,14 @@
 package com.company;
 
-public class Main {
 
+//Main Class
+public class Main {
+    //Main Function
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Welcome To Java");
+        System.out.println("Welcome To Java");
+        System.out.print("Welcome To Java");
+        System.out.print("Welcome");
+        System.out.printf("\nWelcome");
     }
 }
