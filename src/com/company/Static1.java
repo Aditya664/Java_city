@@ -2,9 +2,12 @@ package com.company;
 
 
 class Class1{
+    //Static variable
     static int a = 3;
     final static int b = 4;
+    //Static constant
     static final int c = 5;
+    //Static function
     static void fun(){
         System.out.println("Welcome to java!");
     }
