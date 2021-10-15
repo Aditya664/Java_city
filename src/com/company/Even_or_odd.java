@@ -2,9 +2,9 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Even_or_odd {
     /*Java Program to check whether a number is even or odd*/
-        public static void main(String args[])
+        public static
+void main(String args[])
         {
             //To take input from the user
             //Create an object of scanner class
@@ -17,7 +17,8 @@ public class Even_or_odd {
             //else odd number
             if ( num % 2 == 0 )
                 System.out.println("The entered number is even");
-            else
+            elsepublic class Even_or_odd {
+
                 System.out.println("The entered number is odd");
         }
 }
